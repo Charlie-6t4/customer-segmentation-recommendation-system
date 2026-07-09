@@ -52,15 +52,15 @@ This project helps to:
 
 ## Result_Preview
 
-Figure_4.png
+Figure_4.PNG
 
-Figure_5.png
+Figure_5.PNG
 
-Figure_6.png
+Figure_6.PNG
 
-Figure_7.png
+Figure_7.PNG
 
-Figure_8.png
+Figure_8.PNG
 
 ---
 
@@ -72,11 +72,11 @@ Figure_8.png
 - Feature distribution
 - Product recommendations by customer
 - Raw output data view
--
-## Dashboard Preview
-dashboard_preview1.png
 
-dashboard_preview2.png
+## Dashboard Preview
+dashboard_preview1.PNG
+
+dashboard_preview2.PNG
 
 ---
 
