@@ -54,15 +54,15 @@ This project helps to:
 
 ## Result Preview
 
-Figure_4.png
+<img width="1280" height="696" alt="Figure_4" src="https://github.com/user-attachments/assets/a806bfb1-9365-49b1-9808-ef4e8f8c360d" />
 
-Figure_5.png
+<img width="1200" height="500" alt="Figure_6" src="https://github.com/user-attachments/assets/ada7c31c-b47a-422a-b666-3e2d59f6d329" />
 
-Figure_6.png
+<img width="1280" height="696" alt="Figure_5" src="https://github.com/user-attachments/assets/d2b2b79e-4039-4a33-b427-0b3c85a6ba65" />
 
-Figure_7.png
+<img width="1200" height="500" alt="Figure_7" src="https://github.com/user-attachments/assets/c22996da-4709-47ea-9935-d94364b2a680" />
 
-Figure_8.png
+<img width="1000" height="400" alt="Figure_8" src="https://github.com/user-attachments/assets/fe27ef8b-da8c-4215-b937-9f113edeaee2" />
 
 ---
 
@@ -79,9 +79,9 @@ Figure_8.png
 
 ## Dashboard Preview
 
-dashboard_preview1.png
+<img width="1911" height="1135" alt="dashboard_preview1" src="https://github.com/user-attachments/assets/76047369-e14d-4f6b-9c2b-0da839a8eff5" />
 
-dashboard_preview2.png
+<img width="1894" height="1116" alt="dashboard_preview2" src="https://github.com/user-attachments/assets/42450d29-0da0-4882-bf08-84ed93826945" />
 
 ---
 
