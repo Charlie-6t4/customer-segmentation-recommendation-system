@@ -50,6 +50,13 @@ This project helps to:
 8. Product Recommendation System
 9. Interactive Streamlit Dashboard
 
+## Result_Preview
+Figure_4.png
+Figure_5.png
+Figure_6.png
+Figure_7.png
+Figure_8.png
+
 ---
 
 ## Dashboard Features
@@ -60,6 +67,10 @@ This project helps to:
 - Feature distribution
 - Product recommendations by customer
 - Raw output data view
+-
+## Dashboard Preview
+dashboard_preview1.png
+dashboard_preview2.png
 
 ---
 
