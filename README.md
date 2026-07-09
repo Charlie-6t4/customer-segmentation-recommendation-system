@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on customer segmentation for an online retail business using transactional data. The objective is to transform raw transaction-level data into a customer-level dataset, segment customers using machine learning, and generate personalized product recommendations.
+This project focuses on customer segmentation for an online retail business using transactional data. The objective is to transform raw transaction-level data into a customer-level analytical dataset, segment customers using machine learning, and generate personalized product recommendations.
 
 The project includes data cleaning, feature engineering, outlier detection, dimensionality reduction, K-Means clustering, cluster profiling, and an interactive Streamlit dashboard.
 
@@ -50,7 +50,9 @@ This project helps to:
 8. Product Recommendation System
 9. Interactive Streamlit Dashboard
 
-## Result_Preview
+---
+
+## Result Preview
 
 Figure_4.PNG
 
@@ -73,7 +75,10 @@ Figure_8.PNG
 - Product recommendations by customer
 - Raw output data view
 
+---
+
 ## Dashboard Preview
+
 dashboard_preview1.PNG
 
 dashboard_preview2.PNG
@@ -94,4 +99,3 @@ customer_segmentation_project
 ├── data
 │   ├── customer_segmented_data.csv
 │   └── customer_recommendations.csv
-``
